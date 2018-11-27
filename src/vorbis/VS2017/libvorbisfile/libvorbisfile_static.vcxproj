@@ -84,7 +84,7 @@
       </PrecompiledHeader>
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
-      <FloatingPointModel>Fast</FloatingPointModel>
+      
       <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
     </ClCompile>
     <Lib />
@@ -102,7 +102,7 @@
       </PrecompiledHeader>
       <WarningLevel>Level3</WarningLevel>
       <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
-      <FloatingPointModel>Fast</FloatingPointModel>
+      
     </ClCompile>
     <Lib />
   </ItemDefinitionGroup>
@@ -114,7 +114,7 @@
       <PrecompiledHeader>
       </PrecompiledHeader>
       <WarningLevel>Level3</WarningLevel>
-      <FloatingPointModel>Fast</FloatingPointModel>
+      
       <AdditionalOptions>/Gw %(AdditionalOptions)</AdditionalOptions>
     </ClCompile>
     <Lib />
@@ -130,7 +130,7 @@
       <PrecompiledHeader>
       </PrecompiledHeader>
       <WarningLevel>Level3</WarningLevel>
-      <FloatingPointModel>Fast</FloatingPointModel>
+      
       <AdditionalOptions>/Gw %(AdditionalOptions)</AdditionalOptions>
     </ClCompile>
     <Lib />

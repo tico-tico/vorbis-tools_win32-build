@@ -80,7 +80,7 @@
       <WarningLevel>Level4</WarningLevel>
       <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
       <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
-      <FloatingPointModel>Fast</FloatingPointModel>
+      
     </ClCompile>
     <Link>
       <AdditionalDependencies>libogg_static.lib;libvorbis_static.lib;%(AdditionalDependencies)</AdditionalDependencies>
@@ -101,7 +101,7 @@
       <WarningLevel>Level4</WarningLevel>
       <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
       <Optimization>Disabled</Optimization>
-      <FloatingPointModel>Fast</FloatingPointModel>
+      
     </ClCompile>
     <Link>
       <AdditionalDependencies>libogg_static.lib;libvorbis_static.lib;%(AdditionalDependencies)</AdditionalDependencies>
@@ -119,7 +119,7 @@
       <PrecompiledHeader>
       </PrecompiledHeader>
       <WarningLevel>Level4</WarningLevel>
-      <FloatingPointModel>Fast</FloatingPointModel>
+      
     </ClCompile>
     <Link>
       <AdditionalDependencies>libogg_static.lib;libvorbis_static.lib;%(AdditionalDependencies)</AdditionalDependencies>
@@ -143,7 +143,7 @@
       <PrecompiledHeader>
       </PrecompiledHeader>
       <WarningLevel>Level4</WarningLevel>
-      <FloatingPointModel>Fast</FloatingPointModel>
+      
     </ClCompile>
     <Link>
       <AdditionalDependencies>libogg_static.lib;libvorbis_static.lib;%(AdditionalDependencies)</AdditionalDependencies>
